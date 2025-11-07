@@ -1,7 +1,7 @@
 # ❤️ blinky-leds
 
-this project was made for [blueprint](https://blueprint.hackclub.com) using this [guide](https://blueprint.hackclub.com/starter-projects/blinky)
-
+This is a heart shaped PCB with cool art(well patterns exactly) on silkscreen and 10 leds that blink(idk how, i just followed the [guide](https://blueprint.hackclub.com/starter-projects/blinky)
+) on [blueprint](https://blueprint.hackclub.com)
 ![3D View of the PCB](/Assets/3d%20view.png)
 
 ## Schematics
